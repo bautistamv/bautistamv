@@ -17,6 +17,6 @@
 - [📌 OtroProyecto](https://github.com/usuario/otroproyecto): Otra breve descripción
 
 ### 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/bautista-martinez-vuoto-728730247/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-martinez-vuoto-728730247/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bautistamartinezvuoto@gmail.com)
 
