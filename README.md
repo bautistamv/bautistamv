@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📂 Repositorios destacados
-- [📌 ProyectoUniversidad]([https://github.com/usuario/proyectoejemplo](https://github.com/notinia/TP_JAVA_2024.git)): Junto con mis companeros de la Universidad CAECE Mar del Plata, hicimos una aplicacion para manejar cursadas, aulas, profesores y eventos de la Universidad.
+- [📌 ProyectoUniversidad](https://github.com/notinia/TP_JAVA_2024.git): Junto con mis companeros de la Universidad CAECE Mar del Plata, hicimos una aplicacion para manejar cursadas, aulas, profesores y eventos de la Universidad.
 
 ### 📫 Cómo contactarme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-martinez-vuoto-728730247/)
